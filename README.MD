@@ -1,3 +1,3 @@
 Code Louisville Full Stack Javascript Project
 
-The purpose of this project is to build the website for Board4Change.
+The purpose of this project is to build a simple blog site using the MEAN stack.
